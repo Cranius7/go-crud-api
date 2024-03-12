@@ -32,6 +32,3 @@ Each movie has the following attributes:
 1. Run the program. The server will start at port 8000.
 2. Use HTTP methods like GET, POST, PUT, and DELETE to interact with the API.
 
-## Example Requests
-
-- To retrieve all movies:
